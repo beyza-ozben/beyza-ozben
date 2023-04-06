@@ -1,6 +1,7 @@
-Hi 👋🏻 My name is Beyza Nur Ozben
 
--------------------------------
+Hi 👋🏻 My name is Beyza Nur Ozben 
+---
+---------------------------------
 ▪ I'm Computer Engineer Student at Ondokuz Mayıs University 💻
 
 ▪ You can contact me at bnozben@gmail.com
