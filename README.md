@@ -10,4 +10,4 @@ Hi 👋🏻 My name is Beyza Nur Ozben
 
 🔸 Working on Real Time Object Detection in Deep Learning 📹💻
 
-🔸Person-Machine Learning 👩🏻‍💻-⚙
+🔸 Person-Machine Learning 👩🏻‍💻-⚙
