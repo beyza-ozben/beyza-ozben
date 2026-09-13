@@ -36,5 +36,5 @@ Computer Engineering student at **Ondokuz Mayıs University**, specializing in *
 ### 📬 Connect with Me
 
 * 🌐 **Portfolio:** [beyza-ozben.github.io](https://beyza-ozben.github.io)
-* 💼 **LinkedIn:** [linkedin.com/in/beyza-ozben](https://linkedin.com/in/beyza-ozben)
+* 💼 **LinkedIn:** [linkedin.com/in/beyza-ozben](https://www.linkedin.com/in/beyza-nur-özben)
 * 📧 **Email:** [bnozben@gmail.com](mailto:bnozben@gmail.com)
